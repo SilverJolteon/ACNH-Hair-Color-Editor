@@ -14,7 +14,9 @@ Custom hair colors in Animal Crossing New Horizons
 ## Screenshots
 
 ![Program](https://i.gyazo.com/765ea39e0e26a1696253249690133c8c.png)
+
 ![Hair](https://i.gyazo.com/5e4e81c33edf413b8789444bd54bd0a3.png)
+
 ### Note
 - The color of the icon does not change, but the actual hair color and shine will.
 - Currently there is not a proper UI.

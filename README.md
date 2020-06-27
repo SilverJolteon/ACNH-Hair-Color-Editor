@@ -6,6 +6,10 @@ Custom hair colors in Animal Crossing New Horizons
 1. Enter the hair color number to change (as seen below).
 2. Enter the hex value for the hair color (IE: #0070A0).
 3. Enter the hex value for the hair shine color.
+
+Place the generated file as such:
+`/atmosphere/contents/01006F8002326000/romfs/Bcsv/CharaMakeHairColorParam.bcsv`
+
 ## Hair Color Numbers
 
 ![Hair Color Numbers](https://cdn.discordapp.com/attachments/690636519362265198/726151044245094430/screenshot.png)

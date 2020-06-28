@@ -36,5 +36,5 @@ $(BUILD)/%.o: $(SOURCES)/%.cpp $(HFILES)
 	$(CXX) $(CXXFLAGS) $(CFLAGS) -c $< -o $@ $(LDFLAGS)
 	
 clean:
-	@rm -fr $(BUILD) $(TARGET) CharaMakeHairColorParam.bcsv
+	@rm -fr $(BUILD) $(TARGET) CharaMakeHairColorParam.bcsv CharaMakeEyeColorParam.bcsv
 	@echo Cleaned files

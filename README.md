@@ -2,6 +2,9 @@
 
 Custom hair and eye colors in Animal Crossing New Horizons
 
+# * NEW * Web App Version
+https://silverjolteon.github.io/editor.html
+
 ## How to Use
 Hair Color Editor
 1. Enter the hair color ID to change (as seen below).

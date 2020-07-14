@@ -3,7 +3,7 @@
 Custom hair and eye colors in Animal Crossing New Horizons
 
 # * NEW * Web App Version
-https://silverjolteon.github.io/ACNH/editor.html
+https://silverjolteon.github.io/ACNH/index.html
 
 Place the generated files as such:
 
